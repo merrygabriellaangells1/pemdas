@@ -40,7 +40,3 @@ data_panen ={
         }
     }
 }
-
-# versi 2: menampilkan semua data panen
-for lokasi, data in data_panen.items():
-    print(lokasi, data)
