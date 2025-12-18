@@ -39,3 +39,8 @@ data_panen ={
             'kedelai' : 480,
         }
     }
+}
+
+
+
+
