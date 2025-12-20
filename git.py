@@ -41,6 +41,7 @@ data_panen ={
     }
 }
 
+<<<<<<< HEAD
 # no 1
 
 for i,j in data_panen.items():
@@ -120,3 +121,6 @@ print('221')
 print('11291')
 
 print("perubahan dari branch master")
+=======
+print("ubah branch baru")
+>>>>>>> baru
