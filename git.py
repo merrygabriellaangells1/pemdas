@@ -122,5 +122,5 @@ print('11291')
 
 print("perubahan dari branch master")
 =======
-print("ubah branch baru")
+# baris ini dihapus
 >>>>>>> baru
